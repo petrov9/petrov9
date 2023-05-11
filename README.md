@@ -13,9 +13,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-As a Java developer with 5 years of experience, I possess a strong understanding of object-oriented programming principles and have expertise in designing and developing scalable, reliable, and high-performance applications. With a proven track record of delivering projects within timelines and budgets, I have experience working in agile environments and collaborating with cross-functional teams to drive successful project outcomes. My strong problem-solving skills, attention to detail, and ability to learn and adapt quickly make me an asset to any team.
-
-Feel free to write me. 
+As a Java Developer with 5 years of experience, I am deeply curious, always learning about new technologies. Taking a high-level approach to problem solving, I possess expertise in developing scalable, reliable, and high-performance code, for solving real-world business issues. Being a team player and sharing my depth of knowledge gives me great pride. 
 
 ---
 
