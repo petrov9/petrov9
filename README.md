@@ -13,7 +13,7 @@
 
 ### :woman_technologist: &nbsp;About Me :
 
-As a Java Developer with 5 years of experience, I am deeply curious, always learning about new technologies. Taking a high-level approach to problem solving, I possess expertise in developing scalable, reliable, and high-performance code, for solving real-world business issues. Being a team player and sharing my depth of knowledge gives me great pride. 
+As a Java Developer with 6 years of experience, I am deeply curious, always learning about new technologies. Taking a high-level approach to problem solving, I possess expertise in developing scalable, reliable, and high-performance code, for solving real-world business issues. Being a team player and sharing my depth of knowledge gives me great pride. 
 
 ---
 
